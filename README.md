@@ -5,13 +5,35 @@
     <img src="https://i.imgur.com/Ktm9oiA.png" alt="Logo" width=200 height=200>
   </a>
   
-  <h1 align="center">LLetMe get ghat context-length right</h1> 
+  <h1 align="center">LLetMe Get That Context-Length Right</h1> 
   <h2 align="center"><i>Long-Context LLM Evaluation Framework</i></h2> 
   <h3 align="center">Cognitive Science // Master Thesis 2025</h3>
-
+<br>
 </p>
 
-# Long-Context LLM Evaluation Framework
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project-">About the Project 🔍</a></li>
+    <li><a href="#prerequisites-">Prerequisites 📋</a></li>
+    <li><a href="#supported-models-">Supported Models 🤖</a></li>
+    <li><a href="#logging-information-ℹ️">Logging information ℹ️</a></li>
+    <li><a href="#installation-method-1-doing-it-manually-">Installation method 1 (doing it manually) 🚀</a></li>
+    <li><a href="#installation-method-2-doing-it-automatically-">Installation method 2 (doing it automatically) 🚀</a></li>
+    <li><a href="#task-descriptions-and-metrics-">Task Descriptions and Metrics 📊</a>
+      <ul>
+        <li><a href="#1-single-needle-task">1. Single Needle Task</a></li>
+        <li><a href="#2-multi-needle-task">2. Multi Needle Task</a></li>
+        <li><a href="#3-multi-hop-task">3. Multi-Hop Task</a></li>
+        <li><a href="#4-aggregation-task">4. Aggregation Task</a></li>
+      </ul>
+    </li>
+    <li><a href="#project-structure-">Project Structure 📁</a></li>
+    <li><a href="#results-">Results 📈</a></li>
+    <li><a href="#adding-new-models-">Adding New Models 🤖</a></li>
+  </ol>
+</details>
 
 ## About the Project 🔍
 This project provides a framework for evaluating Large Language Models' (LLMs) performance on long-context tasks. It implements four distinct evaluation tasks:
@@ -214,4 +236,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License 📄
 This repository is licensed under the [MIT License](https://mit-license.org/).
-It is free for everyone to use, modify, and share. If you find it useful, I’d appreciate a citation or a mention—thanks!
+It is free for everyone to use, modify, and share. If you find it useful, I'd appreciate a citation or a mention—thanks!
