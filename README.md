@@ -1,3 +1,16 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://i.imgur.com/Ktm9oiA.png">
+    <img src="https://i.imgur.com/Ktm9oiA.png" alt="Logo" width=200 height=200>
+  </a>
+  
+  <h1 align="center">LLetMe get ghat context-length right</h1> 
+  <h2 align="center"><i>Long-Context LLM Evaluation Framework</i></h2> 
+  <h3 align="center">Cognitive Science // Master Thesis 2025</h3>
+
+</p>
+
 # Long-Context LLM Evaluation Framework
 
 ## About the Project 🔍
