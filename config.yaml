@@ -1,0 +1,48 @@
+models:
+  gpt-4o:
+    enabled: true
+    api_key: ${OPENAI_API_KEY}
+    model_name: "gpt-4o"
+    temperature: 0.0
+
+  o1:
+    enabled: true
+    api_key: ${OPENAI_API_KEY}
+    model_name: "o1"
+    temperature: 0.0
+    
+  deepseek:
+    enabled: false
+    api_key: ${DEEPSEEK_API_KEY}
+    model_name: "deepseek-coder"
+    temperature: 0.0
+    
+  claude:
+    enabled: false
+    api_key: ${ANTHROPIC_API_KEY}
+    model_name: "claude-2"
+    temperature: 0.0
+    
+  llama70b:
+    enabled: false
+    api_key: ${LLAMA_API_KEY}
+    model_name: "llama-2-70b-chat"
+    temperature: 0.0
+    
+  llama8b:
+    enabled: false
+    api_key: ${LLAMA_API_KEY}
+    model_name: "llama-2-8b-chat"
+    temperature: 0.0
+
+evaluation:
+  tasks:
+    single_needle: true
+    multi_needle: true
+    multi_hop: true
+    aggregation: true
+  
+  output:
+    directory: "results"
+    separate_by_model: true
+    generate_comparisons: true 
