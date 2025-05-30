@@ -6,7 +6,7 @@
   </a>
   
   <h1 align="center">LLetMe Get That Context-Length Right</h1> 
-  <h2 align="center"><i>Long-Context LLM Evaluation Framework Introducing: <br>CA-NiaH: Context-Aware Needle-in-a-Haystack</i></h2> 
+  <h2 align="center"><i>Long-Context LLM Evaluation Framework Introducing:</i> <br><br>CA-NiaH: Context-Aware Needle-in-a-Haystack</h2> 
   <h3 align="center">Cognitive Science // Master Thesis 2025</h3>
 <br>
 </p>
