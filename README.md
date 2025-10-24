@@ -47,6 +47,8 @@ Each task generates context-aware content, inserts it into documents, and evalua
 
 The data used to calibrate the evaluation method is publicly available contracts, which can be downloaded from: https://www.atticusprojectai.org/cuad
 
+This project has been used in a specific business case together with [ClearContract]{https://clearcontract.dk/} who used it to determine which models solved their [contract review tool]{https://www.clearcontract.dk/ai-contract-review/}.
+
 This repository is part of a master thesis in Cognitive Science.
 
 ## Prerequisites 📋
